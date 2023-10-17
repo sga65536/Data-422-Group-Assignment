@@ -18,7 +18,7 @@
 - The relationship between unemployment and macroeconomic indicators.docx
 
 ## Presentation
-- Data Wrangling-1.pptx
+- Data Wrangling.pptx
 
 ## Project Diary 
-- 
+- Dear Diary.txt
