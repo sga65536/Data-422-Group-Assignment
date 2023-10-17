@@ -6,7 +6,6 @@
 - New Zealand Business Confidence Index (BCI) and Consumer Confidence index (CCI) from OECD
 ## Data Files:
 - tidy_data.csv :The data set used for analysis after data collation.
-- 
 
 ## Jupyter Notebook Code
 - Step1.ipynb : Julia Code for query the Indicator of the World Bank API and collect data using the API
