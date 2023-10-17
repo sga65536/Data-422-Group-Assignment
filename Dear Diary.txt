@@ -1,0 +1,53 @@
+Our group had four members who actively participated in this project. They are: 
+Huiyuan Xie(Daisy), 
+Song Gao, 
+Peng Dong, 
+and Lin Song. 
+
+No one had a specific role dedicated to coding, report writing, or creating PowerPoint presentations. Each member contributed to all aspects of the project. The specific contributions are as follows:
+
+- September 28: First online meeting. We gathered various materials and discussed the project topic.
+
+- October 3: Song Gao created the group project on GitHub.
+
+- October 9: Song Gao used Julia to download the raw data.
+
+- October 10: Daisy shared the initial preprocessing approach.
+
+- October 11: Daisy revised the missing content in Julia.
+
+- October 12: 
+	      Peng Dong downloaded a portion of the data sources from websites and conducted data visualization with Lin. 
+	      Lin completed the data processing and established the initial model for the New Zealand.
+ 	      Daisy worked on the initial worldwide data processing.
+
+- October 13: 
+	      Peng Dong continued to plot data and provide comments.
+	      Lin made adjustments to the worldwide data processing, finished regional data processing, and visualization. 
+	      Daisy worked on the initial report draft.
+
+- October 14: 
+              Daisy worked on the initial report draft. 
+              Lin worked on the initial PowerPoint draft. 
+	      Peng Dong continued to plot data and provide comments. 
+              Song Gao was working on building a time series model.
+
+- October 15: Song Gao continued working on the time series model.
+
+- October 16: 
+              Lin completed the code integration for steps 1, 2, and 3.
+              Song Gao completed the final code integration. The coding part is now complete. 
+              Daisy continued to write the report. 
+	      Song completed the data modeling section of the report and PowerPoint.
+
+- October 17: 
+	      Daisy continued to write the report.
+	      Song improved the content on GitHub. 
+	      Peng used his knowledge of data management to create an overall figure. 
+	      The entire team worked together to revise and enhance the PowerPoint and prepare the presentation script. 
+
+- October 18: The PowerPoint was completed. A practice session was held at 7:00 PM.
+
+
+
+Please check for omissions and ensure that everyone's contributions are recognized.!!!!
