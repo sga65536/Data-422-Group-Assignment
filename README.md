@@ -10,7 +10,7 @@
 ## Jupyter Notebook Code
 - Step1.ipynb : Julia Code for query the Indicator of the World Bank API and collect data using the API
 - Step2.ipynb : R Code for data cleaning and wrangling.
-- Step3.ipynb : R Code for data visualization:
+- Step3.ipynb : R Code for data visualization
 - Step4.ipynb : R Code for data analysis and forcast
 
 ## Report
