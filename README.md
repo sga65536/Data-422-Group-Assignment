@@ -3,7 +3,7 @@
 - GDP, GDP Growth Rate, Foreign Investment, CPI and Unemployment Rate across worldwide were obtained from The World Bank
 - The New Zealand Currency Exchange Rate (USD/NZD) was collected from the Interest.co.nz.
 - New Zealand Export data from Marcotrends.
-- New Zealand Business Confidence Index (BCI) and Consumer Confidence index (CCI) from OECD
+- New Zealand Business Confidence Index (BCI) and Consumer Confidence index (CCI) from OECD.
 ## Data Files:
 - tidy_data.csv :The data set used for analysis after data collation.
 
