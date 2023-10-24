@@ -5,7 +5,7 @@
 - New Zealand Export data from Marcotrends.
 - New Zealand Business Confidence Index (BCI) and Consumer Confidence index (CCI) from OECD.
 ## Data Files:
-- tidy_data.csv :The data set used for analysis after data collation.
+- merged_data.csv :The data set used for analysis after data collation.
 
 ## Jupyter Notebook Code
 - Step1.ipynb : Julia Code for query the Indicator of the World Bank API and collect data using the API
@@ -14,10 +14,10 @@
 - Step4.ipynb : R Code for data analysis and forcast
 
 ## Report
-- The relationship between unemployment and macroeconomic indicators.docx
+- Predictive Analysis of New Zealand's Unemployment Rate in the Context of Macroeconomic Factors.docx
 
 ## Presentation
-- Data Wrangling.pptx
+- Data Wrangling.pdf
 
 ## Project Diary 
 - Dear Diary.txt
