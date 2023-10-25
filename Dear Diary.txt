@@ -6,7 +6,7 @@ and Lin Song.
 
 No one had a specific role dedicated to coding, report writing, or creating PowerPoint presentations. Each member contributed to all aspects of the project. The specific contributions are as follows:
 
-- September 28: First online meeting. We gathered various materials and discussed the project topic.
+- September 28: First online meeting, We gathered various materials and discussed the project topic.
 
 - October 3: Song Gao created the group project on GitHub.
 
@@ -17,7 +17,7 @@ No one had a specific role dedicated to coding, report writing, or creating Powe
 - October 11: Daisy revised the missing content in Julia.
 
 - October 12: 
-              Lin completed the data processing and established the initial model for the New Zealand.
+              Lin completed the data processing and established the initial model for New Zealand.
 	      Peng Dong downloaded a portion of the data sources from websites and conducted data visualization with Lin. 
  	      Daisy worked on the initial worldwide data processing.
 
@@ -30,7 +30,7 @@ No one had a specific role dedicated to coding, report writing, or creating Powe
               Daisy worked on the initial report draft. 
               Lin worked on the initial PowerPoint draft. 
 	      Peng Dong continued to plot data and provide comments. 
-              Song Gao was working on building a time series model.
+              Song Gao worked on building a time series model.
 
 - October 15: Song Gao continued working on the time series model.
 
@@ -38,7 +38,7 @@ No one had a specific role dedicated to coding, report writing, or creating Powe
               Lin completed the code integration for steps 1, 2, and 3.
               Song Gao completed the final code integration. The coding part is now complete. 
               Daisy continued to write the report. 
-	      Song completed the data modeling section of the report and PowerPoint.
+	      Song Gao completed the data modelling section of the report and PowerPoint.
 
 - October 17: 
 	      Daisy continued to write the report.
@@ -47,5 +47,5 @@ No one had a specific role dedicated to coding, report writing, or creating Powe
 	      The entire team worked together to revise and enhance the PowerPoint and prepare the presentation script. 
 
 - October 18: The PowerPoint was completed. A practice session was held at 7:00 PM.
-- October 21: Daisy completed the report draft.Peng and Song make comments for the report draft.
-- October 24: Lin finalized the report, incorporating revisions. Peng make comments for the report.
+- October 21: Daisy completed the report draft. Peng and Lin made comments for the report draft.
+- October 24: Lin finalized the report, incorporating revisions. Peng made comments for the report.
