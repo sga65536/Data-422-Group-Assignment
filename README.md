@@ -7,14 +7,14 @@
 ## Data Files:
 - merged_data.csv:The data set used for modelling after data collection.
 
-## Jupyter Notebook Code
+## Notebook Code
 - Step1.ipynb: Julia Code for query the Indicator of the World Bank API and collect data using the API
 - Step2.ipynb: R Code for Data Wrangling and Visualization (Regional)
 - Step3.ipynb: R Code for Data Wrangling and Visualization (New Zealand)
 - Step4.ipynb: R Code for data analysis and forecast
 
 ## Report
-- Predictive Analysis of New Zealand's Unemployment Rate in the Context of Macroeconomic Factors.docx
+- Report.pdf
 
 ## Presentation
 - LAB3TEAMB.PPTX
